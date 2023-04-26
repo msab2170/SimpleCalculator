@@ -1,4 +1,4 @@
-# SimpleCalculator
+# SimpleCalculator by C#
 
 아주간단한 연산(합, 차, 곱, 나누기)이 가능한 계산기
 과정은 블로그에서도 보실 수 있습니다.
